@@ -1,2 +1,2 @@
 # study
-tes repo for githubstudy
+test repo for githubstudy
